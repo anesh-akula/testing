@@ -1,4 +1,4 @@
-tojsaojkkp;op;kd;
+tojsojkkp;op;kd;
 tojsaojkkp;op;fdlgpkdpfkpjpofbkd;
 gdlplstdfpkpogdpk=ddgzgjdzskp[d
 gdlplstdfpkpogdpk=ddgzgjdzskp[d
@@ -6,6 +6,7 @@ gdlplstdfpkpogdpk=ddgzgjdzskp[d
 gdlplstdfpkpogdpk=ddgzgjdzskp[d
 gdlplstdfpk
 think
->>
 think
 123
+hello world
+hello world123
